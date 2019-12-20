@@ -1,10 +1,10 @@
 # LAB-14-Database-normalization
-Number and name of feature: ________________________________
 
-Estimate of time needed to complete: _____
 
-Start time: _____
+Estimate of time needed to complete: 1 hour
 
-Finish time: _____
+Start time: 10:00
 
-Actual time needed to complete: _____
+Finish time 10:45
+
+Actual time needed to complete: 45 minutes
